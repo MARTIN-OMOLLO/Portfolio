@@ -1,0 +1,10 @@
+.me{
+    text-align: center;
+}
+
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-around;
+}
